@@ -53,6 +53,7 @@ my_container is the container ID
 ....what else?
 
 
+Thanks to [vishnubob](https://github.com/vishnubob) for [wait-for-it](https://github.com/vishnubob/wait-for-it) script
 
 
 
