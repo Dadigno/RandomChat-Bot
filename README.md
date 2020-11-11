@@ -19,3 +19,15 @@ Public commands:
 - `/skip` leave the actual room and join another automatically
 - `/report` send a message directly to the admin 
 
+Admin command:
+- `/help` list all admin command
+- `/alluser` list of all users registered
+- `/sendmessage <id> <text>` send a message to a specific `ID`
+- `/bad <id>` ban a specific user by his `ID`
+- `/unban <id>` unban a specific user by his `ID`
+- `/log` get the entire log file of the bot
+
+
+
+
+
