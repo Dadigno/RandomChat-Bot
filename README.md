@@ -42,6 +42,18 @@ You can access the postgres database with
 
 my_container is the container ID
 
+## TODO
+
+- Enable other types of messages
+- Inline keyboard
+- Multi language
+- Rooms can support more than two partecipants
+- Set name/avar for each user
+
+....what else?
+
+
+
 
 
 
