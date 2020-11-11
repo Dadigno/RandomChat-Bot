@@ -19,7 +19,7 @@ Public commands:
 - `/skip` leave the actual room and join another automatically
 - `/report` send a message directly to the admin 
 
-Admin command:
+Admin commands:
 - `/help` list all admin command
 - `/alluser` list of all users registered
 - `/sendmessage <id> <text>` send a message to a specific `ID`
