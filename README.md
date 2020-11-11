@@ -27,6 +27,22 @@ Admin commands:
 - `/unban <id>` unban a specific user by his `ID`
 - `/log` get the entire log file of the bot
 
+## Setup and run
+Create a bot using [Bot Father](https://telegram.me/BotFather) and get the Token
+
+Modify `config.py` with the admin `ID` and the Token. You can also modify the default name and password of the database in the file `db.py`
+
+Install the last version of docker and docker-compose than build and run the application:
+
+`sudo docker-compose up --build`
+
+You can access the postgres database with
+
+`sudo docker exec -it my_container psql -U admin -W botDb /bin/bash`
+
+my_container is the container ID
+
+
 
 
 
